@@ -1,6 +1,6 @@
 # SCREENMATCH
 <p align="center">
-  <img alt="MedVoll" src="https://github.com/Julianamcs/medVoll/blob/main/src/main/resources/img/img_bg.png" width="100%">
+  <img alt="MedVoll" src="https://github.com/Julianamcs/screenmatch/blob/main/src/main/java/br/com/jmcs/screenmatch/img/img_screm.png" width="100%">
 </p>
 
 
